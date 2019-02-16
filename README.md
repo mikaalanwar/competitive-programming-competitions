@@ -26,8 +26,9 @@ A curated lisiting of competitive programming competitions and related resources
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [CodeSignal](https://codesignal.com/interview-practice/) (formerly known as *_CodeFight_*)
 - [Project Euler](https://projecteuler.net/archives)
-- [HackerCup Solutions](https://www.facebook.com/pg/hackercup/notes/)
-- [ICPC Solutions](https://icpc.baylor.edu/worldfinals/problems)
+- [Facebook HackerCup Solutions](https://www.facebook.com/pg/hackercup/notes/)
+- [Google Hashcode Solutions](https://codingcompetitions.withgoogle.com/hashcode/archive)
+- [ACM ICPC Solutions](https://icpc.baylor.edu/worldfinals/problems)
 - [GeeksForGeeks](https://practice.geeksforgeeks.org/)
 
 ### Other Resources
