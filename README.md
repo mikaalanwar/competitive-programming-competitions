@@ -21,7 +21,7 @@ A curated lisiting of competitive programming competitions and related resources
 - [DevPost](https://devpost.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 
-> Other great resources for practise:
+> Other great resources for practise. Equally applicable for preparing coding interviews:
 
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [CodeSignal](https://codesignal.com/interview-practice/) (formerly known as *_CodeFight_*)
