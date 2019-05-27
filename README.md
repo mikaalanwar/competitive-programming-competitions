@@ -51,4 +51,4 @@ Here, are some useful tips that you should know before getting started with Comp
 - Sign up on any online coding challenge website and start solving their practice problems.
 - You need to deep understanding of various Data Structures which is vital to solving complex coding issues. You should know where to use which one.
 - Have a solid understanding of the concept of time/space complexity in programs.
-- Learn important programming patterns like recursion, Dynamic Programming, etc.
+- Learn important programming patterns like recursion, dynamic programming, etc.
