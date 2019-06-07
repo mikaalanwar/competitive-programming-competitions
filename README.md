@@ -12,6 +12,7 @@ Following is a curated lisiting of competitive programming competitions and rela
 - [Google HashCode](https://codingcompetitions.withgoogle.com/hashcode/)
 - [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+- [TopCoder Open](https://tco19.topcoder.com/)
 
 >Coding challenges / hiring challenges:
 
@@ -49,6 +50,6 @@ Here, are some useful tips that you should know before getting started with Comp
 
 - It's vital that you select a programming language which you are most comfortable with.
 - Sign up on any online coding challenge website and start solving their practice problems.
-- You need to deep understanding of various Data Structures which is vital to solving complex coding issues. You should know where to use which one.
+- You need to deep understanding of various data structures which is vital to solving complex coding issues. You should know where to use which one.
 - Have a solid understanding of the concept of time/space complexity in programs.
-- Learn important programming patterns like recursion, dynamic programming, etc.
+- Learn important programming patterns like recursion, dynamic programming, backtracking etc.
