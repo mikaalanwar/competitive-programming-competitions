@@ -14,6 +14,7 @@ Following is a curated lisiting of competitive programming competitions and rela
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 - [TopCoder Open](https://tco19.topcoder.com/)
 - [International Olympiad on Informatics](https://ioinformatics.org/)
+- [Yandex Algorithm Contest](https://contest.yandex.com/)
 
 >Coding challenges / hiring challenges:
 
