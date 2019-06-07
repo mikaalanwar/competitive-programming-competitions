@@ -13,6 +13,7 @@ Following is a curated lisiting of competitive programming competitions and rela
 - [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 - [TopCoder Open](https://tco19.topcoder.com/)
+- [International Olympiad on Informatics](https://ioinformatics.org/)
 
 >Coding challenges / hiring challenges:
 
