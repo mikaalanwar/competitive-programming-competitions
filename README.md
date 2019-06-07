@@ -40,6 +40,7 @@ Following is a curated lisiting of competitive programming competitions and rela
 - [GeeksForGeeks](https://practice.geeksforgeeks.org/)
 - [CodeWars](https://www.codewars.com/)
 - [CodeChef](https://www.codechef.com/)
+- [ACM Timus Online Judge](http://acm.timus.ru/problemset.aspx)
 
 ### Other Resources
 
