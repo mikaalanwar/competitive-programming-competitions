@@ -19,7 +19,7 @@ Following is a curated lisiting of competitive programming competitions and rela
 >Coding challenges / hiring challenges:
 
 - [Hackerrank](https://www.hackerrank.com/)
-- [Kaggle](https://www.kaggle.com/) (specifically for *_Data Science_*)
+- [Kaggle](https://www.kaggle.com/) (especially for *_Data Science_*)
 - [TopCoder](https://www.topcoder.com/challenges)
 - [CodeForces](https://codeforces.com/)
 - [CoderByte](https://coderbyte.com/)
